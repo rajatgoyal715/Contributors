@@ -1,5 +1,6 @@
 # Contributors
-Add yourself as contributor
+Add yourself as contributor and create a Pull Request.
+This repo is intended to make new users familiar with Git features like commits, PRs, Forks etc.
 
 ## Contributors List
 | Contributor Name | Contributor Github Username |
