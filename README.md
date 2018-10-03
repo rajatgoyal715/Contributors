@@ -6,3 +6,4 @@ Add yourself as contributor
 |------------------|-----------------------------|
 |Lakshya Gupta     |aspirar                      |
 | Rajat Goyal | rajat-smpx |
+| Armandas Budrius | Racistpanda |
