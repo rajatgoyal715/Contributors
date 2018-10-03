@@ -11,6 +11,7 @@ Add yourself as contributor
 | Armandas Budrius | Racistpanda |
 | Ramón Bogarin |   Bogarin |
 | Piyush Kakkar | piyushk96 |
+| Ajeet Goyal | ajeet97 |
 | Chirag Jain |   chirag-jn |
 | Shahbaz Hussain |   shahbaz-smpx |
 | Raunak Sethiya |   raunak-smpx |
