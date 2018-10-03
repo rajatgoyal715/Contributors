@@ -5,3 +5,4 @@ Add yourself as contributor
 | Contributor Name | Contributor Github Username |
 |------------------|-----------------------------|
 |Lakshya Gupta     |aspirar                      |
+| Rajat Goyal | rajat-smpx |
