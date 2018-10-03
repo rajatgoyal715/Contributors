@@ -2,7 +2,7 @@
 Add yourself as contributor
 
 ## Contributors List
-| Name | Github Username |
+| Contributor Name | Contributor Github Username |
 |------------------|-----------------------------|
 | Lakshya Gupta | aspirar |
 | Rajat Goyal | rajat-smpx |
@@ -16,3 +16,4 @@ Add yourself as contributor
 | Shahbaz Hussain |   shahbaz-smpx |
 | Raunak Sethiya |   raunak-smpx |
 | Bruce | bcye |
+| Shahbaz Hussain |   therealshabi |
