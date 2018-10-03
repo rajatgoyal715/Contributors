@@ -9,3 +9,4 @@ Add yourself as contributor
 | Isala Piyarisi | mrsupiri |
 | Armandas Budrius | Racistpanda |
 | Ramón Bogarin |   Bogarin |
+| Chirag Jain |   chirag-jn |
