@@ -8,3 +8,4 @@ Add yourself as contributor
 | Rajat Goyal | rajat-smpx |
 | Isala Piyarisi | mrsupiri |
 | Armandas Budrius | Racistpanda |
+| Ramón Bogarin |   Bogarin |
