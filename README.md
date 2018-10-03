@@ -18,4 +18,3 @@ This repo is intended to make new users familiar with Git features like commits,
 | Raunak Sethiya |   raunak-smpx |
 | Bruce | bcye |
 | Shahbaz Hussain |   therealshabi |
-| Rajat | rajatgoyal715 |
