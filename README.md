@@ -5,7 +5,6 @@ This repo is intended to make new users familiar with Git features like commits,
 ## Contributors List
 | Contributor Name | Contributor Github Username |
 |------------------|-----------------------------|
-| Rajat Goyal | rajat-smpx |
 | Lakshya Gupta | aspirar |
 | Ajeet Goyal | ajeet-smpx |
 | Isala Piyarisi | mrsupiri |
