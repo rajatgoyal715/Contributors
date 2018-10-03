@@ -18,4 +18,5 @@ This repo is intended to make new users familiar with Git features like commits,
 | Raunak Sethiya |   raunak-smpx |
 | Bruce | bcye |
 | Shahbaz Hussain |   therealshabi |
+| Luis Fariña | louthinker |
 | Divyanshu Singh |   bl4ckp4nther |
