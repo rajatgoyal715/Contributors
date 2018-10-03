@@ -14,3 +14,4 @@ Add yourself as contributor
 | Chirag Jain |   chirag-jn |
 | Shahbaz Hussain |   shahbaz-smpx |
 | Raunak Sethiya |   raunak-smpx |
+| Bruce | bcye |
