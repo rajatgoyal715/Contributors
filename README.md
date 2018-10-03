@@ -12,3 +12,4 @@ Add yourself as contributor
 | Ramón Bogarin |   Bogarin |
 | Piyush Kakkar | piyushk96 |
 | Chirag Jain |   chirag-jn |
+| Shahbaz Hussain |   shahbaz-smpx |
