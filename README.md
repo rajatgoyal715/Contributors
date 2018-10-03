@@ -13,3 +13,4 @@ Add yourself as contributor
 | Piyush Kakkar | piyushk96 |
 | Chirag Jain |   chirag-jn |
 | Shahbaz Hussain |   shahbaz-smpx |
+| Raunak Sethiya |   raunak-smpx |
