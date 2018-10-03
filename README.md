@@ -10,3 +10,4 @@ Add yourself as contributor
 | Armandas Budrius | Racistpanda |
 | Ramón Bogarin |   Bogarin |
 | Piyush Kakkar | piyushk96 |
+| Chirag Jain |   chirag-jn |
