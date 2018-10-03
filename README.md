@@ -6,6 +6,7 @@ Add yourself as contributor
 |------------------|-----------------------------|
 | Lakshya Gupta | aspirar |
 | Rajat Goyal | rajat-smpx |
+| Ajeet Goyal | ajeet-smpx |
 | Isala Piyarisi | mrsupiri |
 | Armandas Budrius | Racistpanda |
 | Ramón Bogarin |   Bogarin |
