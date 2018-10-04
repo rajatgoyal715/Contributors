@@ -24,3 +24,4 @@ This repo is intended to make new users familiar with Git features like commits,
 | Divyanshu Singh |   bl4ckp4nther |
 | Mukul Goyal | mukulgoyal793 |
 | Guilherme Vieira |   gitlherme |
+| Emmanuel Pires | epcgrs |
