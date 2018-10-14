@@ -15,6 +15,7 @@ This repo is intended to make new users familiar with Git features like commits,
 | Armandas Budrius | Racistpanda |
 | Ramón Bogarin |   Bogarin |
 | Vishal Sood |   vishal-sood |
+| Shlok Nangia | shloknangia |
 | Piyush Kakkar | piyushk96 |
 | Ajeet Goyal | ajeet97 |
 | Chirag Jain |   chirag-jn |
@@ -25,3 +26,4 @@ This repo is intended to make new users familiar with Git features like commits,
 | Mukul Goyal | mukulgoyal793 |
 | Guilherme Vieira |   gitlherme |
 | Emmanuel Pires | epcgrs |
+
