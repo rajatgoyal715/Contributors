@@ -27,4 +27,5 @@ This repo is intended to make new users familiar with Git features like commits,
 | Guilherme Vieira |   gitlherme |
 | Emmanuel Pires | epcgrs |
 | Umesh Verma	| ucverma |
+| Atul Anand    | atul2938 |
 
