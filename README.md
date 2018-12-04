@@ -3,6 +3,7 @@ Add yourself as contributor and create a Pull Request.
 This repo is intended to make new users familiar with Git features like commits, PRs, Forks etc.
 
 ## Contributors List
+
 | Name | Github Username |
 | --- | --- |
 | Rajat Goyal | rajat-smpx |
