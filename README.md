@@ -11,6 +11,7 @@ This repo is intended to make new users familiar with Git features like commits,
 | Ajeet Goyal | ajeet-smpx |
 | Shahbaz Hussain | shahbaz-smpx |
 | Raunak Sethiya | raunak-smpx |
+| Ayush Kumar | [ayushkumar-25](https://github.com/ayushkumar-25) |
 | Lakshya Gupta | aspirar |
 | Isala Piyarisi | mrsupiri |
 | Armandas Budrius | Racistpanda |
